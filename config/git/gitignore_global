@@ -1,0 +1,9 @@
+build/
+out/
+.gradle/
+.idea/
+.vscode/
+*.wrap
+*.class
+*.log
+Thumbs.db

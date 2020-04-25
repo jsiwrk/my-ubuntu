@@ -1,0 +1,31 @@
+{
+    "breadcrumbs.enabled": true,
+    "editor.minimap.enabled": false,
+    "explorer.openEditors.visible": 15,
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "git.autofetch": true,
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.currentLine.enabled": false,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.views.fileHistory.enabled": true,
+    "gitlens.views.lineHistory.enabled": true,
+    "macros.list": {
+        "formatJson": [
+            {
+                "command": "changeLanguageMode.change",
+                "args": {
+                    "languageId": "json"
+                }
+            },
+            "editor.action.formatDocument"
+        ]
+    },
+    "search.useIgnoreFiles": false,
+    "window.restoreWindows": "all",
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Visual Studio Light"
+}
