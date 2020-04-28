@@ -37,7 +37,7 @@ Installing the Software
 1. Enter the `setup` directory and run the installation script.
     ```bash
     cd my-ubuntu/setup
-    ./install_all.sh
+    ./setup.sh
     ```
 1. Wait until the installation finishes. A message **All software installed successfully** will appear if no errors have occurred.
 
