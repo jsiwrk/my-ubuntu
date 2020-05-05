@@ -75,11 +75,12 @@ Other Ubuntu Tweaks
 1. In **Settings > Devices > Keyboard**:
     - Disable the **Save a screenshot to pictures** shortcut.
     - Assign the **Switch windows** command to the Alt+Tab shortcut (by default this shortcut is assigned to **Switch applications**).
-2. Install Gnome Tweaks:
+1. From **Ubuntu Software**, install the **Alt-Tab Switcher Popup Delay Removal** extension.
+1. Install Gnome Tweaks:
     ```bash
     sudo apt install gnome-tweaks
     ```
-3. In **Tweaks**:
+1. In **Tweaks**:
     - In **Top Bar**, enable **Clock > Date**.
     - Laptops only: enable **Top Bar > Battery Percentage**.
     - In **Startup Applications**: add the applications you want to be started automatically.
