@@ -27,3 +27,6 @@ code --install-extension ctf0.macros
 
 # Add "Change Language Mode" extension (useful for macros, see https://stackoverflow.com/q/56565851/10202182):
 code --install-extension usernamehw.change-language-mode
+
+# Add "Remote Development" extension:
+ext install ms-vscode-remote.vscode-remote-extensionpack
